@@ -1,0 +1,10 @@
+img {
+  width: 50%;
+  float: right;
+}
+
+.sidebar {
+  width: 50%;
+  float: left;
+  background-color: gainsboro;
+}
